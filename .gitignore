@@ -2,8 +2,8 @@
 # !*.bin
 # !**/
 
-build17/**
-!build17/*.bin
-!build17/bootloader/*.bin
-!build17/partition_table/*.bin
-!**/
+build18/**
+!build18/*.bin
+!build18/bootloader/*.bin
+!build18/partition_table/*.bin
+!build18/**/
