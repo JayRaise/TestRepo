@@ -1,3 +1,7 @@
-build16/**
-!*.bin
-!**/
+# build16/**
+# !*.bin
+# !**/
+
+build17/
+!build17/*.bin
+!build17/partition_table/*.bin
