@@ -1,1 +1,2 @@
-!build6/**/*.bin
+build7/**/
+!*.bin
