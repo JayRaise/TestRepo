@@ -1,9 +1,9 @@
-# build16/**
-# !*.bin
-# !**/
+build19/**
+!*.bin
+!build19/**/
 
-build18/**
-!build18/*.bin
-!build18/bootloader/*.bin
-!build18/partition_table/*.bin
-!build18/**/
+# build18/**
+# !build18/*.bin
+# !build18/bootloader/*.bin
+# !build18/partition_table/*.bin
+# !build18/**/
