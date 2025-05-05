@@ -1,2 +1,3 @@
-build11/**
+build12/**
 !**/*.bin
+!build11/**/
