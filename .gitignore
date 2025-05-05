@@ -1,2 +1,3 @@
 *.a
-build/
+build/*
+!build/*.bin
