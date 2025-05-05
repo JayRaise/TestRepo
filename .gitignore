@@ -6,3 +6,4 @@ build17/**
 !build17/*.bin
 !build17/bootloader/*.bin
 !build17/partition_table/*.bin
+!**/
